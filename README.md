@@ -1,2 +1,3 @@
 # pricingpanel
-Pricing Panel Front End 
+Pricing Panel Front End Project
+
