@@ -16,9 +16,9 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
+	margin: 10;
+	padding: 10;
+	border: 10;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
@@ -29,7 +29,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+	line-height: 1.5;
 }
 ol, ul {
 	list-style: none;
@@ -62,7 +62,7 @@ body {
 
 .panel {
   background-color: white;
-  border-radius: 10px;
+  border-radius: 15px;
   padding: 15px 25px;
   width: 100%;
   max-width: 960px;
@@ -101,7 +101,7 @@ body {
   font-size: 12px;
   line-height: 1.5;
   padding: 15px 0;
-  border-top: 1px solid #e1f1ff;
+  border-top: 2px solid #e1f1ff;
 }
 
 .pricing-features-item:last-child{
